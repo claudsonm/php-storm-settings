@@ -5,13 +5,13 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="546e7a" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-379eb5cc:16c4fcb9e10:-8000" />
+    <option name="version" value="4.2.1" />
   </component>
 </application>
