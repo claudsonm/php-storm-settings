@@ -4,7 +4,7 @@
     <property name="created">2019-08-01T21:53:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-01T23:14:26</property>
+    <property name="modified">2019-08-01T23:25:24</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -86,10 +86,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="212121" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="212121c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
