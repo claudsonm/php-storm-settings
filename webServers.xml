@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6ca03aba-29a9-47e6-8e7a-bf52296e81b1" name="playground" url="http://playground.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6251d10d-81a6-4638-8752-2643e723ae5f" name="contratos" url="http://contratos.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

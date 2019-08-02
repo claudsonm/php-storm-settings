@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="ComposerSettings">
+        <execution>
+          <executable />
+        </execution>
+      </component>
+      <component name="EmacsSettings">
+        <option name="emacsPath" value="/usr/bin/emacs" />
+      </component>
+      <component name="PhpDebugGeneral" xdebug_debug_port="9001" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="claudson" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios" Folder1="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios" Folder2="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios" Folder3="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary1="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios/portuguese-brazil_without-accents.dic" CustomDictionary3="$USER_HOME$/OneDrive/Aplicativos/PhpStorm/Dicionarios/portuguese-brazil.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
