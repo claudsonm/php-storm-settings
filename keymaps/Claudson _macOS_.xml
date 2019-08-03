@@ -42,6 +42,9 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="Macro.Add semicolon to the end of line">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -57,6 +60,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="Switcher" />
   <action id="Tool_External Tools_PHP CS FIxer">
