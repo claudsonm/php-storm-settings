@@ -10,6 +10,7 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -29,6 +30,13 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
