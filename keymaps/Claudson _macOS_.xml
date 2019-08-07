@@ -1,4 +1,8 @@
 <keymap version="1" name="Claudson (macOS)" parent="Sublime Text (Mac OS X)">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <mouse-shortcut keystroke="button4" />
