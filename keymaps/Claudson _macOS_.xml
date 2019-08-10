@@ -3,10 +3,15 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -14,6 +19,10 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
@@ -43,12 +52,18 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Macro.Add semicolon to the end of line">
     <keyboard-shortcut first-keystroke="meta semicolon" />
@@ -68,10 +83,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Switcher" />
   <action id="Tool_External Tools_PHP CS FIxer">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
