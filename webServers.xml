@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a7aea2f-a587-40d3-8131-16a0036a3103" name="Microservico Financeiro" url="http://ms-financeiro.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
