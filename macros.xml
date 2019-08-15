@@ -4,5 +4,9 @@
       <action id="EditorLineEnd" />
       <typing text-keycode="59:0">;</typing>
     </macro>
+    <macro name="Commet line keeping caret">
+      <action id="CommentByLineComment" />
+      <action id="EditorUp" />
+    </macro>
   </component>
 </application>
