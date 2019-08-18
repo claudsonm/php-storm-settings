@@ -4,6 +4,9 @@
       <webServer id="6a7aea2f-a587-40d3-8131-16a0036a3103" name="Microservico Financeiro" url="http://ms-financeiro.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f0b67246-baf3-4172-babd-34906e0e1a27" name="CEP Promise" url="http://cep-promise-php.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
