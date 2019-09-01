@@ -7,6 +7,9 @@
       <webServer id="f0b67246-baf3-4172-babd-34906e0e1a27" name="CEP Promise" url="http://cep-promise-php.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b5076097-1ed0-43c9-be4d-980ed70318e8" name="FBI CRM" url="http://fbi-crm.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
