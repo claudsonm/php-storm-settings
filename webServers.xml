@@ -10,6 +10,9 @@
       <webServer id="b5076097-1ed0-43c9-be4d-980ed70318e8" name="FBI CRM" url="http://fbi-crm.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c2282644-a31a-4aa2-8040-384e11375c31" name="FBI Rastreamento CRM" url="http://fbirastreamento-crm.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
