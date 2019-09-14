@@ -13,6 +13,9 @@
       <webServer id="c2282644-a31a-4aa2-8040-384e11375c31" name="FBI Rastreamento CRM" url="http://fbirastreamento-crm.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6ad3c1c1-59ef-4522-a0b2-ef58d69cd299" name="Dragonclaw Webhooks" url="http://dragonclaw-webhooks.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
