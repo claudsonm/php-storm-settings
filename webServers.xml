@@ -16,6 +16,9 @@
       <webServer id="6ad3c1c1-59ef-4522-a0b2-ef58d69cd299" name="Dragonclaw Webhooks" url="http://dragonclaw-webhooks.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="39aa6d79-66f6-415c-970e-8f2098b0c166" name="Playground" url="http://playground.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
