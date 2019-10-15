@@ -117,6 +117,9 @@
   </action>
   <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
