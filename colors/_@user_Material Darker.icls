@@ -4,7 +4,7 @@
     <property name="created">2019-08-01T21:53:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-11-24T15:27:32</property>
+    <property name="modified">2019-12-04T21:57:48</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -74,7 +74,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
@@ -86,10 +86,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="73787a" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="73787ac0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
@@ -160,11 +160,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
