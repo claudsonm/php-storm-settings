@@ -16,6 +16,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -26,10 +27,12 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="DatabaseView.FullTextSearch" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Editor Paste">
@@ -114,6 +117,14 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
