@@ -17,6 +17,10 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -80,6 +84,9 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -121,6 +128,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReopenClosedTab" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
     <keyboard-shortcut first-keystroke="meta h" />
@@ -130,10 +138,14 @@
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
