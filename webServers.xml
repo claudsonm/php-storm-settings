@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a7aea2f-a587-40d3-8131-16a0036a3103" name="Microservico Financeiro" url="http://ms-financeiro.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f0b67246-baf3-4172-babd-34906e0e1a27" name="CEP Promise" url="http://cep-promise-php.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b5076097-1ed0-43c9-be4d-980ed70318e8" name="FBI CRM" url="http://fbi-crm.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c2282644-a31a-4aa2-8040-384e11375c31" name="FBI Rastreamento CRM" url="http://fbirastreamento-crm.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ad3c1c1-59ef-4522-a0b2-ef58d69cd299" name="Dragonclaw Webhooks" url="http://dragonclaw-webhooks.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="39aa6d79-66f6-415c-970e-8f2098b0c166" name="Playground" url="http://playground.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0c1d9431-b197-4c5f-aca9-c080fa3b016e" name="Laravel Playground" url="http://laravel-playground.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
