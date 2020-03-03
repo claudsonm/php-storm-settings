@@ -4,18 +4,12 @@
     <property name="created">2019-12-07T13:18:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-03-03T10:50:28</property>
+    <property name="modified">2020-03-03T16:24:12</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono SSm Lig" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono SSm Lig" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
