@@ -144,6 +144,10 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="SearchEverywhere.PrevTab" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+    <keyboard-shortcut first-keystroke="meta f3" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
