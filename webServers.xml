@@ -22,6 +22,9 @@
       <webServer id="0c1d9431-b197-4c5f-aca9-c080fa3b016e" name="Laravel Playground" url="http://laravel-playground.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="45e9a5b6-db8d-49ff-96d6-0f4f203bc73d" name="Transactions" url="http://transactions.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
