@@ -4,6 +4,7 @@
       <mapping ext="dist" type="PHP" />
       <mapping pattern="vimrc" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
+      <mapping pattern="Teste" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="vimrc" type="PLAIN_TEXT" />
