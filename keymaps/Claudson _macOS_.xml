@@ -28,6 +28,7 @@
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="CollapseSelection" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
