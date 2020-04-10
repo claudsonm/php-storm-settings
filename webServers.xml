@@ -25,6 +25,9 @@
       <webServer id="45e9a5b6-db8d-49ff-96d6-0f4f203bc73d" name="Transactions" url="http://transactions.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9ce8f414-be08-4c3d-812d-6282b1ca1b49" name="Wallet Core" url="http://wallet-core.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
