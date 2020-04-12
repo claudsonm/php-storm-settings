@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tf" type="Native" />
       <mapping ext="dist" type="PHP" />
-      <mapping pattern=".tf" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="Teste" type="PLAIN_TEXT" />
       <mapping pattern="vimrc" type="PLAIN_TEXT" />
-      <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="vimrc" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".functions" type="Shell Script" />
       <mapping pattern=".aliases" type="Shell Script" />
       <mapping ext="functions" type="Shell Script" />
+      <removed_mapping pattern=".tf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tf" approved="true" type="Native" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
