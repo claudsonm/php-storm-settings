@@ -4,7 +4,7 @@
     <property name="created">2019-12-07T13:18:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-04-16T09:17:14</property>
+    <property name="modified">2020-04-17T09:18:51</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -71,9 +71,9 @@
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbColor" value="" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
@@ -83,8 +83,8 @@
     <option name="ScrollBar.hoverTrackColor" value="212121" />
     <option name="ScrollBar.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.trackColor" value="212121" />
-    <option name="TAB_UNDERLINE" value="ff9800c0" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="ff9800c0" />
+    <option name="TAB_UNDERLINE" value="9e9e9ec0" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="9e9e9ec0" />
     <option name="TEARLINE_COLOR" value="424242" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
