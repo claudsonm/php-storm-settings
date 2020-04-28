@@ -18,5 +18,7 @@
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
     <errorStripeModel>normal</errorStripeModel>
+    <readonlySizeThreshold>6000</readonlySizeThreshold>
+    <highlight_links>false</highlight_links>
   </component>
 </application>
