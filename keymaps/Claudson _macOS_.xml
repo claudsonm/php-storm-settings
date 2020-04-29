@@ -147,6 +147,9 @@
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
