@@ -32,9 +32,6 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="CollapseSelection" />
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta divide" />
-  </action>
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -105,9 +102,6 @@
   </action>
   <action id="Macro.Add semicolon to the end of line">
     <keyboard-shortcut first-keystroke="meta semicolon" />
-  </action>
-  <action id="Macro.Commet line keeping caret">
-    <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
