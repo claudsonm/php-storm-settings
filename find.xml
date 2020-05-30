@@ -15,5 +15,6 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*.php</mask>
+    <mask>*.md</mask>
   </component>
 </application>
