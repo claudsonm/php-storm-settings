@@ -20,10 +20,6 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.ShelveSilently" />
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -152,6 +148,9 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="SelectAllOccurrences">
