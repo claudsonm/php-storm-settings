@@ -1,5 +1,7 @@
 <keymap version="1" name="Claudson (Windows)" parent="Sublime Text">
   <action id="ChangesView.ShelveSilently" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
@@ -13,6 +15,14 @@
     <mouse-shortcut keystroke="shift control button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -20,6 +30,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="Switcher" />
   <action id="TabShiftActions.MoveFocusLeft">
     <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
