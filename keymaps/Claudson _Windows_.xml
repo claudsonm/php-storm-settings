@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CopyElement" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -47,6 +48,7 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextBookmark" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -78,6 +80,9 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Switcher" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="TabShiftActions.MoveFocusLeft">
     <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
