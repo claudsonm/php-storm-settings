@@ -7,13 +7,16 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.Submit" />
   <action id="CopyElement" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Paste">
@@ -27,12 +30,17 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -102,7 +110,9 @@
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark2" />
+  <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
