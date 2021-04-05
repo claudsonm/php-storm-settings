@@ -110,6 +110,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="Switcher" />
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="f5" />
@@ -139,6 +140,9 @@
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark1" />
   <action id="ToggleBookmark2" />
+  <action id="Tool_External Tools_PHP CS FIxer">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
