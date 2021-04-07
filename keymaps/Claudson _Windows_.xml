@@ -99,6 +99,14 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
@@ -146,4 +154,5 @@
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="tasks.switch" />
 </keymap>
