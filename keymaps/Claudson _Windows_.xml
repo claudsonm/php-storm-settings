@@ -73,6 +73,12 @@
   </action>
   <action id="GotoNextBookmark" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -99,6 +105,14 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
@@ -110,6 +124,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="Switcher" />
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="f5" />
@@ -139,7 +154,11 @@
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark1" />
   <action id="ToggleBookmark2" />
+  <action id="Tool_External Tools_PHP CS FIxer">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="tasks.switch" />
 </keymap>
