@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isHighContrast" value="true" />
@@ -13,9 +14,9 @@
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="22" />
-    <option name="accentColor" value="9e9e9e" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-379eb5cc:16c4fcb9e10:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0.2" />
   </component>
 </application>
