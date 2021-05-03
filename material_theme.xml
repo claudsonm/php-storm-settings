@@ -11,6 +11,7 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
+    <option name="indicatorStyle" value="None" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="22" />
