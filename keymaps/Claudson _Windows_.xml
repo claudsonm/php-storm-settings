@@ -16,6 +16,17 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -35,6 +46,14 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
@@ -47,6 +66,23 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
@@ -76,6 +112,12 @@
   </action>
   <action id="GotoNextBookmark" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
@@ -97,6 +139,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="ProblemsView.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="ProblemsView.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
