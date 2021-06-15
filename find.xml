@@ -14,7 +14,7 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.php</mask>
     <mask>*.md</mask>
+    <mask>*.php</mask>
   </component>
 </application>
