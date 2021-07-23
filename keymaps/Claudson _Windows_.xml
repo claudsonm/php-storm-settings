@@ -49,10 +49,11 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl add" />
-    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
@@ -60,6 +61,9 @@
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
@@ -102,6 +106,7 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoDeclaration">
