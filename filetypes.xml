@@ -6,8 +6,8 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
